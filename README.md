@@ -14,7 +14,7 @@
 
 <br/>
 
-[📄 **Read the Report**](./report/AI-Powered%20Data%20Analysis%20Report.pdf) &nbsp;•&nbsp;
+[📄 View Report](./report/AI-Powered%20Data%20Analysis%20The%20Impact%20of%20Artificial%20Intelligence%20on%20Education.pdf)&nbsp;•&nbsp;
 [📚 **Sources**](./sources/SOURCES.md) &nbsp;•&nbsp;
 [📂 **Full Internship Drive**](https://drive.google.com/drive/folders/1gFSRE4nI6DqWaAV-zipojbWrqJGOvlHJ?usp=drive_link)
 
